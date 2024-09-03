@@ -8,8 +8,8 @@ atp:true
 si424:{
 name:'Image_1',
 type:1268,
-from:26277,
-to:26558,
+from:1,
+to:282,
 rp:0,
 rpa:0,
 mdi:'si424c',
@@ -175,8 +175,8 @@ vb:[-1,-1,1,1]
 si432:{
 name:'Image_Group_1',
 type:1268,
-from:26277,
-to:26558,
+from:1,
+to:282,
 rp:0,
 rpa:0,
 mdi:'si432c',
@@ -546,8 +546,8 @@ vb:[-1,-1,445,563]
 si455:{
 name:'Image_Group_Text_1',
 type:1268,
-from:26277,
-to:26558,
+from:1,
+to:282,
 rp:0,
 rpa:0,
 mdi:'si455c',
@@ -717,8 +717,8 @@ vb:[-1,-1,1,1]
 si463:{
 name:'Text_1',
 type:1250,
-from:26277,
-to:26558,
+from:1,
+to:282,
 rp:0,
 rpa:0,
 mdi:'si463c',
@@ -1225,8 +1225,8 @@ vb:[-2,-2,-1,-1]
 Slide388:{
 lb:'Launch',
 id:388,
-from:26277,
-to:26558,
+from:1,
+to:282,
 iols:0,
 i360qs:false,
 sdu:9.4,
@@ -1309,8 +1309,8 @@ visible:'1'
 si76154:{
 name:'Párrafo_9',
 type:1268,
-from:26559,
-to:26858,
+from:283,
+to:582,
 rp:0,
 rpa:0,
 mdi:'si76154c',
@@ -1476,8 +1476,8 @@ vb:[-1,-1,1,1]
 si76162:{
 name:'Paragraph_Group_143',
 type:1268,
-from:26559,
-to:26858,
+from:283,
+to:582,
 rp:0,
 rpa:0,
 mdi:'si76162c',
@@ -1652,8 +1652,8 @@ vb:[-1,-1,1,1]
 si76170:{
 name:'Texto_80',
 type:1250,
-from:25695,
-to:25994,
+from:283,
+to:582,
 rp:0,
 rpa:0,
 mdi:'si76170c',
@@ -1805,8 +1805,8 @@ vb:[-1,-1,2,2]
 si76190:{
 name:'Texto_82',
 type:1250,
-from:26559,
-to:26858,
+from:283,
+to:582,
 rp:0,
 rpa:0,
 mdi:'si76190c',
@@ -2945,8 +2945,8 @@ vb:[-2,-2,-1,-1]
 Slide76132:{
 lb:'Vacío 28',
 id:76132,
-from:26559,
-to:26858,
+from:283,
+to:582,
 iols:0,
 i360qs:false,
 sdu:10,
@@ -4943,11 +4943,11 @@ bookmarks:[]
 ,
 qs:'si75275q0',
 iph:{
-75328:{
+75890:{
 ts:''
 }
 ,
-75890:{
+75328:{
 ts:''
 }
 
@@ -4967,8 +4967,8 @@ visible:'1'
 Slide60652:{
 lb:'Vacío 1',
 id:60652,
-from:28629,
-to:28718,
+from:673,
+to:762,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -5037,8 +5037,8 @@ visible:'1'
 si60788:{
 name:'Paragraph_146',
 type:1268,
-from:26859,
-to:26948,
+from:763,
+to:852,
 rp:0,
 rpa:0,
 mdi:'si60788c',
@@ -5204,8 +5204,8 @@ vb:[-1,-1,1,1]
 si60782:{
 name:'Paragraph_Group_134',
 type:1268,
-from:26859,
-to:26948,
+from:763,
+to:852,
 rp:0,
 rpa:0,
 mdi:'si60782c',
@@ -5873,8 +5873,8 @@ vb:[-1,-1,2,2]
 si60744:{
 name:'Button_1031',
 type:29,
-from:26895,
-to:26948,
+from:799,
+to:852,
 rp:0,
 rpa:0,
 mdi:'si60744c',
@@ -6042,8 +6042,8 @@ vb:[-2,-2,-1,-1]
 Slide60812:{
 lb:'Welcome - 1',
 id:60812,
-from:26859,
-to:26948,
+from:763,
+to:852,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -11352,8 +11352,8 @@ visible:'1'
 Slide62965:{
 lb:'Vacío 4',
 id:62965,
-from:28719,
-to:29018,
+from:1453,
+to:1752,
 iols:0,
 i360qs:false,
 sdu:10,
@@ -25548,8 +25548,8 @@ visible:'1'
 Slide63885:{
 lb:'Vacío 7',
 id:63885,
-from:29019,
-to:29318,
+from:2743,
+to:3042,
 iols:0,
 i360qs:false,
 sdu:10,
@@ -29812,11 +29812,11 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-65322:{
+65988:{
 ts:''
 }
 ,
-65988:{
+65322:{
 ts:''
 }
 
@@ -34418,8 +34418,8 @@ visible:'1'
 Slide65959:{
 lb:'Vacío 13',
 id:65959,
-from:29919,
-to:30218,
+from:17535,
+to:17834,
 iols:0,
 i360qs:false,
 sdu:10,
@@ -36171,12 +36171,12 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-67692:{
-ts:'{"effect":1,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
-}
-,
 72072:{
 ts:''
+}
+,
+67692:{
+ts:'{"effect":1,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 
 }
@@ -36195,8 +36195,8 @@ visible:'1'
 Slide67694:{
 lb:'Vacío 15',
 id:67694,
-from:30219,
-to:30518,
+from:18135,
+to:18434,
 iols:0,
 i360qs:false,
 sdu:10,
@@ -40975,8 +40975,8 @@ visible:'1'
 Slide75371:{
 lb:'Vacío 25',
 id:75371,
-from:30519,
-to:30818,
+from:19035,
+to:19334,
 iols:0,
 i360qs:false,
 sdu:10,
@@ -44548,8 +44548,8 @@ visible:'1'
 Slide68388:{
 lb:'Vacío 19',
 id:68388,
-from:30819,
-to:31118,
+from:19635,
+to:19934,
 iols:0,
 i360qs:false,
 sdu:10,
@@ -57306,12 +57306,12 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-78545:{
-ts:'{"effect":8,"duration":0.6,"delay":1,"acceleration":0,"repeat":1}'
-}
-,
 74792:{
 ts:''
+}
+,
+78545:{
+ts:'{"effect":8,"duration":0.6,"delay":1,"acceleration":0,"repeat":1}'
 }
 
 }
@@ -57330,8 +57330,8 @@ visible:'1'
 Slide75398:{
 lb:'Vacío 26',
 id:75398,
-from:31119,
-to:31418,
+from:21135,
+to:21434,
 iols:0,
 i360qs:false,
 sdu:10,
@@ -70113,8 +70113,8 @@ visible:'1'
 Slide79930:{
 lb:'Vacío 32',
 id:79930,
-from:31419,
-to:31718,
+from:22035,
+to:22334,
 iols:0,
 i360qs:false,
 sdu:10,
@@ -70902,8 +70902,8 @@ visible:'1'
 Slide80074:{
 lb:'Vacío 34',
 id:80074,
-from:31719,
-to:32018,
+from:22635,
+to:22934,
 iols:0,
 i360qs:false,
 sdu:10,
@@ -70972,8 +70972,8 @@ visible:'1'
 si80120:{
 name:'Párrafo_19',
 type:1268,
-from:33315,
-to:33614,
+from:22935,
+to:23234,
 rp:0,
 rpa:0,
 mdi:'si80120c',
@@ -71139,8 +71139,8 @@ vb:[-1,-1,1,1]
 si80128:{
 name:'Paragraph_Group_153',
 type:1268,
-from:33315,
-to:33614,
+from:22935,
+to:23234,
 rp:0,
 rpa:0,
 mdi:'si80128c',
@@ -71464,8 +71464,8 @@ vb:[-1,-1,2,2]
 si80156:{
 name:'Texto_133',
 type:1250,
-from:33315,
-to:33614,
+from:22935,
+to:23234,
 rp:0,
 rpa:0,
 mdi:'si80156c',
@@ -72921,8 +72921,8 @@ vb:[-2,-2,-1,-1]
 Slide80098:{
 lb:'Vacío 35',
 id:80098,
-from:33315,
-to:33614,
+from:22935,
+to:23234,
 iols:0,
 i360qs:false,
 sdu:10,
@@ -73010,8 +73010,8 @@ visible:'1'
 si80404:{
 name:'Click_To_Reveal_Widget_1',
 type:1268,
-from:33015,
-to:33314,
+from:23235,
+to:23534,
 rp:0,
 rpa:0,
 mdi:'si80404c',
@@ -78815,8 +78815,8 @@ vb:[-2,-2,150,30]
 si80714:{
 name:'Click_To_Reveal_Overlay_Container_1',
 type:1268,
-from:33015,
-to:33314,
+from:23235,
+to:23534,
 rp:0,
 rpa:0,
 mdi:'si80714c',
@@ -80487,8 +80487,8 @@ vb:[-2,-2,150,30]
 si80806:{
 name:'Click_To_Reveal_Overlay_2',
 type:1268,
-from:33015,
-to:33314,
+from:23235,
+to:23534,
 rp:0,
 rpa:0,
 mdi:'si80806c',
@@ -80822,8 +80822,8 @@ vb:[-1,-1,1,1]
 si80822:{
 name:'Click_To_Reveal_Overlay_Image_And_Text_Container_3',
 type:1268,
-from:33015,
-to:33314,
+from:23235,
+to:23534,
 rp:0,
 rpa:0,
 mdi:'si80822c',
@@ -81343,8 +81343,8 @@ vb:[-1,-1,426,527]
 si80852:{
 name:'Click_To_Reveal_Overlay_Image_And_Text_Container_4',
 type:1268,
-from:33015,
-to:33314,
+from:23235,
+to:23534,
 rp:0,
 rpa:0,
 mdi:'si80852c',
@@ -81669,8 +81669,8 @@ vb:[-2,-2,150,30]
 si80870:{
 name:'Texto_148',
 type:1250,
-from:33015,
-to:33314,
+from:23235,
+to:23534,
 rp:0,
 rpa:0,
 mdi:'si80870c',
@@ -88384,8 +88384,8 @@ vb:[-2,-2,-1,-1]
 Slide80375:{
 lb:'Vacío 36',
 id:80375,
-from:33015,
-to:33314,
+from:23235,
+to:23534,
 iols:0,
 i360qs:false,
 sdu:10,
@@ -88445,11 +88445,11 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-81252:{
+81271:{
 ts:''
 }
 ,
-81271:{
+81252:{
 ts:''
 }
 
@@ -88469,8 +88469,8 @@ visible:'1'
 Slide81276:{
 lb:'Vacío 37',
 id:81276,
-from:32019,
-to:32318,
+from:23535,
+to:23834,
 iols:0,
 i360qs:false,
 sdu:10,
@@ -91229,8 +91229,8 @@ visible:'1'
 Slide81744:{
 lb:'Vacío 39',
 id:81744,
-from:32319,
-to:32618,
+from:24135,
+to:24434,
 iols:0,
 i360qs:false,
 sdu:10,
@@ -96511,8 +96511,8 @@ visible:'1'
 si12133:{
 name:'Paragraph_34',
 type:1268,
-from:32619,
-to:32714,
+from:25035,
+to:25130,
 rp:0,
 rpa:0,
 mdi:'si12133c',
@@ -96678,8 +96678,8 @@ vb:[-1,-1,1,1]
 si12127:{
 name:'Paragraph_Group_22',
 type:1268,
-from:32619,
-to:32714,
+from:25035,
+to:25130,
 rp:0,
 rpa:0,
 mdi:'si12127c',
@@ -96846,8 +96846,8 @@ vb:[-1,-1,1,1]
 si12050:{
 name:'Text_216',
 type:1250,
-from:32619,
-to:32714,
+from:25035,
+to:25130,
 rp:0,
 rpa:0,
 mdi:'si12050c',
@@ -97012,8 +97012,8 @@ vb:[-1,-1,2,2]
 Slide12157:{
 lb:'Thank you - 1',
 id:12157,
-from:32619,
-to:32714,
+from:25035,
+to:25130,
 iols:0,
 i360qs:false,
 sdu:3.2,
@@ -98928,7 +98928,7 @@ pprtd:false,
 peon:false,
 fadeInAtStart:0,
 fadeOutAtEnd:0,
-endAction:'cp.openURL(\"https://drive.google.com/drive/folders/1WhypfnpvDTESVHBZhnPo8TZqcVp8CJev?usp=drive_link\","_self");'
+endAction:'cp.openURL(\"\","_self");'
 },
 borderProperties:{
 hasBorder:false
@@ -99201,15 +99201,6 @@ ipiv:{
 
 }
 ,{
-ip:'dr/0559.png',
-ipiv:{
-360:1,
-600:1,
-972:1
-}
-
-}
-,{
 ip:'dr/060514.png',
 ipiv:{
 360:1,
@@ -99444,15 +99435,6 @@ ipiv:{
 
 }
 ,{
-ip:'dr/076036.jpg',
-ipiv:{
-360:1,
-600:1,
-972:1
-}
-
-}
-,{
 ip:'dr/076129.png',
 ipiv:{
 360:1,
@@ -99651,42 +99633,6 @@ ipiv:{
 
 }
 ,{
-ip:'dr/082706.jpg',
-ipiv:{
-360:1,
-600:1,
-972:1
-}
-
-}
-,{
-ip:'dr/082712.jpg',
-ipiv:{
-360:1,
-600:1,
-972:1
-}
-
-}
-,{
-ip:'dr/082714.jpg',
-ipiv:{
-360:1,
-600:1,
-972:1
-}
-
-}
-,{
-ip:'dr/082716.jpg',
-ipiv:{
-360:1,
-600:1,
-972:1
-}
-
-}
-,{
 ip:'dr/082719.jpg',
 ipiv:{
 360:1,
@@ -99715,27 +99661,13 @@ resources:['dr/060514.png']
 ,{
 slideID:36,
 ResourceList:{
-resources:['dr/069867.svg','dr/069914.svg','dr/069961.svg','dr/070008.svg','dr/070055.svg','dr/070102.svg','dr/080922.png','dr/081006.png','dr/081090.png','dr/081174.png','dr/081272.png','dr/081274.png']
-}
-
-}
-,{
-slideID:43,
-ResourceList:{
-resources:['dr/060514.png']
+resources:['dr/080922.png','dr/081006.png','dr/081090.png','dr/081174.png','dr/081272.png','dr/081274.png']
 }
 
 }
 ];
 cp.model.audioresources=[{
 slideID:0,
-ResourceList:{
-resources:['ar/76038.mp3']
-}
-
-}
-,{
-slideID:43,
 ResourceList:{
 resources:['ar/76038.mp3']
 }
